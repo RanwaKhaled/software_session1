@@ -1,3 +1,4 @@
+#Problem 1: double hash pyramids
 dim = int(input('enter the dimension for you pyramids (between 1 and 8): '))
 while (dim<1 or dim>8):
     dim = int(input('please enter a number between 1 and 8: '))
